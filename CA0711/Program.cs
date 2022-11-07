@@ -10,8 +10,10 @@ namespace CA0711
     {
         static void Main(string[] args)
         {
+
             int valor;
             string nome;
+
         }
     }
 }
